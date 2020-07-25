@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  position: absolute;
+  top: 10px;
+}
+span {
+  margin-left: 60px;
+}
